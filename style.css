@@ -1,0 +1,6 @@
+@import url(/fonts/GoogleLogoFont/regular.ttf);
+
+.logoPS {
+    font-family: 'Product Sans'; /* Product Sans Logo */
+    font-size: 30px;
+}
